@@ -1,0 +1,9 @@
+C:\Users\ЖаксылыковО\Desktop\Ado.NetHomeWork4-master\HomeWork4\HomeWork4\obj\Debug\AdoNetHomeWork5.Form1.resources
+C:\Users\ЖаксылыковО\Desktop\Ado.NetHomeWork4-master\HomeWork4\HomeWork4\obj\Debug\HomeWork4.Properties.Resources.resources
+C:\Users\ЖаксылыковО\Desktop\Ado.NetHomeWork4-master\HomeWork4\HomeWork4\obj\Debug\AdoNetHomeWork5.csproj.GenerateResource.cache
+C:\Users\ЖаксылыковО\Desktop\Ado.NetHomeWork4-master\HomeWork4\HomeWork4\obj\Debug\AdoNetHomeWork5.csproj.CoreCompileInputs.cache
+C:\Users\ЖаксылыковО\Desktop\Ado.NetHomeWork4-master\HomeWork4\HomeWork4\obj\Debug\HomeWork4.exe
+C:\Users\ЖаксылыковО\Desktop\Ado.NetHomeWork4-master\HomeWork4\HomeWork4\obj\Debug\HomeWork4.pdb
+C:\Users\ЖаксылыковО\Desktop\Ado.NetHomeWork4-master\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe.config
+C:\Users\ЖаксылыковО\Desktop\Ado.NetHomeWork4-master\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe
+C:\Users\ЖаксылыковО\Desktop\Ado.NetHomeWork4-master\HomeWork4\HomeWork4\bin\Debug\HomeWork4.pdb
